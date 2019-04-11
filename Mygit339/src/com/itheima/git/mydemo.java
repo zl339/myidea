@@ -5,6 +5,7 @@ public class mydemo {
         System.out.println("使用git");
         System.out.println("我克隆完了");
         System.out.println("更改下");
+        System.out.println("重新上传fuck!!!!!!!");
     }
 
 }
